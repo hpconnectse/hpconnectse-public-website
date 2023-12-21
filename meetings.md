@@ -1,6 +1,6 @@
 ---
 layout: default
-
+title: HP-Connect Sweden
 ---
 
 ## Möten

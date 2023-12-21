@@ -1,5 +1,6 @@
 ---
 layout: default
+title: HP-Connect Sweden
 ---
 
 ## Kontakta oss
