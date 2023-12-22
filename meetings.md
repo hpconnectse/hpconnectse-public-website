@@ -4,10 +4,19 @@ title: HP-Connect Sweden
 ---
 
 ## Möten
+### Två halvdagar seminarium med fokus på VMS 17e januari 14:00 - 18e januari 11:00 2024 i Malmö eller på distans
+#### Agendan för båda dagarna presenteras senare 
+
+### Medlemsmöte 17e januari 17:00 2024 i Malmö eller på distans
+####Agenda: 
+1. Snabb sammanfattning från tidigare presenterat material under dagen. 
+2. Diskussion kring HP-Connect Sweden framtid. Hur vill vi medlemmar att föreningen ska fortsätta sin verksamhet i framtiden och stärka medlemsengagemanget. 
+3. Övrigt
+
+* * * 
+
 ### Årsmöte 2023-05-23
 #### Välkommen på Årsmöte i HP-Connect Sweden!
-
-
 Vi har valt att hålla ett enkelt årsmöte även i år via teams men har tänkt att det ska att om intresse finns träffas under årsmötet för en fika i Göteborg, Malmö resp Stockholm. För lite mer storslaget fysiskt möte med någon som pratar teknik och rolig aktivitet ser vi kommer efter sommaren. Hösten bjuder dessutom på intressant konferens i och med https://openvms-ng.com som äger rum i höst.
 
 Datum: Tisdag den 23 Maj 2023
@@ -21,24 +30,23 @@ Ordinarie årsmöte hålls årligen före juni månads utgång. Extra årsmöte 
 
 Vid ordinarie årsmöte skall följande punkter förekomma:
 
-årsmötets öppnande
-upprättande av röstlängd
-fråga om mötets behöriga utlysande
-fastställande av dagordningen
-val av ordförande och sekreterare för mötet
-val av två justeringsmän, tillika rösträknare
-föredragning av årsredovisning och verksamhetsberättelse
-revisorernas berättelse
-beslut om fastställande av balans- och resultaträkningarna
-fråga om ansvarsfrihet för styrelsen
-val av ordförande
-val av övriga styrelseledamöter
-val av revisorer och revisorssuppleant
-val av valberedning
-fastställande av medlemsavgift för nästkommande verksamhetsår
-förslag från enskild medlem som i tid kommit styrelsen tillhanda
-övriga frågor
-årsmötets avslutande
+1. Årsmötets öppnande
+2. Upprättande av röstlängd
+3. Fråga om mötets behöriga utlysande
+4. Fastställande av dagordningenval av ordförande och sekreterare för mötet
+5. Val av två justeringsmän, tillika rösträknare
+6. Föredragning av årsredovisning och verksamhetsberättelse
+7. Revisorernas berättelse
+8. Beslut om fastställande av balans- och resultaträkningarna
+9. Fråga om ansvarsfrihet för styrelsen
+10. Val av ordförande
+11. Val av övriga styrelseledamöter
+12. Val av revisorer och revisorssuppleant
+13. Val av valberedning
+14. Fastställande av medlemsavgift för nästkommande verksamhetsår
+15. Förslag från enskild medlem som i tid kommit styrelsen tillhanda
+16. Övriga frågor
+17. Årsmötets avslutande
 Oskar Holmlund
 HP-Connect Sweden
 
@@ -360,8 +368,6 @@ Day 2:
 12:30-14:00 – Lunch
 14:00-17:00 – Customer Meetings
 
-För anmälan se länk nedan:
-https://www.eventbrite.com/e/hp-connect-sweden-vms-sig-annual-meeting-tickets-42639545027
 
 Varmt välkomna!
 Styrelsen
@@ -372,8 +378,7 @@ Välkommen på Årsmöte i HP-Connect Sweden!
 Datum: Måndag 2018-04-23
 Tid: 17:30 till 23:00
 Agenda: Kommer inom kort
-För anmälan se länk nedan eller skicka e-post till styrelsen@hp-connect.se
-https://www.eventbrite.com/e/hp-connect-sweden-vms-sig-annual-meeting-tickets-42639545027
+För anmälan skicka e-post till styrelsen@hp-connect.se
 
 Varmt välkomna!
 Styrelsen
