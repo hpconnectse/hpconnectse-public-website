@@ -8,7 +8,7 @@ title: HP-Connect Sweden
 #### Agendan för båda dagarna presenteras senare 
 
 ### Medlemsmöte 17e januari 17:00 2024 i Malmö eller på distans
-####Agenda: 
+#### Agenda: 
 1. Snabb sammanfattning från tidigare presenterat material under dagen. 
 2. Diskussion kring HP-Connect Sweden framtid. Hur vill vi medlemmar att föreningen ska fortsätta sin verksamhet i framtiden och stärka medlemsengagemanget. 
 3. Övrigt
