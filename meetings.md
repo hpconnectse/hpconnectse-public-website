@@ -5,7 +5,25 @@ title: HP-Connect Sweden
 
 ## Möten
 ### Två halvdagar seminarium med fokus på VMS 17e januari 14:00 - 18e januari 11:00 2024 i Malmö eller på distans
-#### Agendan för båda dagarna presenteras senare 
+
+Agenda (på engelska) för dagarna
+Onsdag 17/1
+* 14:00     VSI Business Update        Jan Magnusson
+* 14:20     VSI R&D Update               Vadim Ilves
+* 14:40     Migrating to x86              Darya Zelenina
+* 15:00     Setting up an OpenVMS ESXi VM               Thilo Lauer
+* 16:00     Q&A with VSI     
+
+* 17:00 HP-Connect Sweden Member meeting
+* 18:15 Three-course dinner in the same building (food included, not drinks).
+
+Torsdag 18/1
+* 09:00     Mimer VMS X86 Experiences       Bengt Gunne
+* 10:15    VSI Application Migration             Anders Johansson
+* 11:30     Lunch (included)
+
+Inspelad och delad media från seminariet finns på denna [länk](https://hpconnectswe-my.sharepoint.com/:f:/g/personal/admin_hp-connect_se/EgBYhNH_X8FJt5SxNnxn5FsBXpBKlbta-iNxXAkCP1inXQ) (länken är giltig till 240221)
+* * * 
 
 ### Medlemsmöte 17e januari 17:00 2024 i Malmö eller på distans
 #### Agenda: 
