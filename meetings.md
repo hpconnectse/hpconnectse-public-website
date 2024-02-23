@@ -4,6 +4,12 @@ title: HP-Connect Sweden
 ---
 
 ## Möten
+
+### Årsmöte 2024 16e maj 17:00
+Mer information kommer men vi planerar att ha en heldag med aktiviteter i Uppsala. 
+
+* * * 
+
 ### Två halvdagar seminarium med fokus på VMS 17e januari 14:00 - 18e januari 11:00 2024 i Malmö eller på distans
 
 Agenda (på engelska) för dagarna
