@@ -6,8 +6,16 @@ title: HP-Connect Sweden
 ## Möten
 
 ### Årsmöte 2024 16e maj 17:00
-Mer information kommer men vi planerar att ha en heldag med aktiviteter i Uppsala. 
 
+* 11:00 Avresa med buss från Uppsala
+* 12:00 Lunch på Skoklosters slott
+* 13:00 Guideledd tur på Skoklosters slott
+* 15:00/16.00 Återresa med buss till Uppsala
+* 17:00 Genomförs HP-Connect Sweden årsmöte i Mimers lokaler på Väderkvarnsgatan 17A i Uppsala.
+* 18:00 Middag på närliggande restaurang.
+
+ Det kommer att vara möjlighet att närvara på distans via Internetmöte eller telefonsamtal.   
+ 
 * * * 
 
 ### Två halvdagar seminarium med fokus på VMS 17e januari 14:00 - 18e januari 11:00 2024 i Malmö eller på distans
