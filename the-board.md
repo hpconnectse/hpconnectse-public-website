@@ -21,8 +21,6 @@ title: HP-Connect Sweden
 Björn-Erik Tapper, Uppsala
 
 ## Valberedning:
-* Ordinarie:     Bo Eliasson, Stockholm
 * Ordinarie:    Pelle Delby, Linköping
-* Ordinarie:    Robert Nydahl, Stockholm
 
 [Tillbaka](./)
