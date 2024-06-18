@@ -5,8 +5,7 @@ title: HP-Connect Sweden
 
 ## Styrelsen
 * David Brinnen, Ordförande, Malmö
-* Oskar Holmlund, Sekreterare, Stockholm
-* Peter Rubin, Kassör, Kalmar
+* Oskar Holmlund, Stockholm
 * Frode Melsaeter, Stockholm
 * Peter Lindbergh, Malmö
 * Ulf Olsson Lidholm, Malmö
@@ -26,11 +25,4 @@ Björn-Erik Tapper, Uppsala
 * Ordinarie:    Pelle Delby, Linköping
 * Ordinarie:    Robert Nydahl, Stockholm
 
-## Postadress:
-```
-HP-Connect Sweden
-c/o Peter Rubin
-Kantarellgatan 15
-386 32 Färjestaden
-```
 [Tillbaka](./)
