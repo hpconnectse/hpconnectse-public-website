@@ -9,7 +9,6 @@ title: HP-Connect Sweden
 * Frode Melsaeter, Stockholm
 * Peter Lindbergh, Malmö
 * Ulf Olsson Lidholm, Malmö
-* Lars Sundqvist, Göteborg
 * Bengt Lundgren, Stockholm
 * Anders Karlsson, Stockholm
 
@@ -22,5 +21,6 @@ Björn-Erik Tapper, Uppsala
 
 ## Valberedning:
 * Ordinarie:    Pelle Delby, Linköping
+* Ordinarie:    Lars Sundqvist, Göteborg
 
 [Tillbaka](./)
