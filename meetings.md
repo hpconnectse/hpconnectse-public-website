@@ -7,6 +7,7 @@ title: HP-Connect Sweden
 ### Årsmöte 2025 13e maj, cirka 17:00
 
 * 08:00 Under dagen närvarar vi på OpenVMS Bootcamp Europe 2025 i Malmö, Hyllie. [https://events.vmssoftware.com/malmo-2025-register](https://events.vmssoftware.com/malmo-2025-register)
+* ~17:00 Genomförs HP-Connect Sweden årsmöte i en lokal i närheten.
 
 Det kommer att vara möjlighet att närvara på årsmötet på distans via Internetmöte eller telefonsamtal.
 
