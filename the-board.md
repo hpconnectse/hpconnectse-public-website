@@ -5,11 +5,11 @@ title: HP-Connect Sweden
 
 ## Styrelsen
 * David Brinnen, Ordförande, Malmö
-* Oskar Holmlund, Stockholm
+* Lars Sundqvist, Göteborg
 * Frode Melsaeter, Stockholm
 * Peter Lindbergh, Malmö
 * Ulf Olsson Lidholm, Malmö
-* Bengt Lundgren, Stockholm
+* Marie Siklund, Kalmar
 * Anders Karlsson, Stockholm
 
 ## Revisorer:
@@ -21,6 +21,6 @@ Björn-Erik Tapper, Uppsala
 
 ## Valberedning:
 * Ordinarie:    Pelle Delby, Linköping
-* Ordinarie:    Lars Sundqvist, Göteborg
+* Ordinarie:    Oskar Holmlund, Stockholm
 
 [Tillbaka](./)
