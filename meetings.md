@@ -4,6 +4,15 @@ title: HP-Connect Sweden
 ---
 
 ## Möten
+### Årsmöte 2026 21-22a april, 21 april cirka 15:00
+
+Årsmötet genomförs undet två halvdagar i Kalmar under 21-22a april. Det beslutande Årsmötet är schemalagt till 15:00 den 21a april . Mer information kommer inom kort. 
+
+Det kommer att vara möjlighet att närvara på årsmötet på distans via Internetmöte eller telefonsamtal.
+
+* * * 
+
+
 ### Årsmöte 2025 13e maj, cirka 17:00
 
 * 08:00 Under dagen närvarar vi på OpenVMS Bootcamp Europe 2025 i Malmö, Hyllie. [https://events.vmssoftware.com/malmo-2025-register](https://events.vmssoftware.com/malmo-2025-register)
