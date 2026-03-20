@@ -4,9 +4,32 @@ title: HP-Connect Sweden
 ---
 
 ## Möten
-### Årsmöte 2026 21-22a april, 21 april cirka 15:00
+### Årsmöte 2026 21-22a april, 21 april start 15:15
 
-Årsmötet genomförs undet två halvdagar i Kalmar under 21-22a april. Det beslutande Årsmötet är schemalagt till 15:00 den 21a april . Mer information kommer inom kort. 
+Årsmötet genomförs undet två halvdagar i Kalmar under 21-22a april. Det beslutande Årsmötet är schemalagt till 15:15 den 21a april.
+
+Bestämd agenda för de två halvdagarna:
+
+2026-04-21
+* 11.30-12.30 Lunch (restaurang Jonas mat&event)
+* 12.45-13.00 Vivicta + HP Connect Sweden
+* 13.00-14.30 Volvo Cars migrering till x86
+* 14:30-14:35 Paus
+* 14.35-15.15 Mimer konvertering av 11,5 miljarder rader av data
+* 15.15-15.45 Årsmöte HPE Connect Sweden 2026
+* 15.45-16.00 Transport till Ängöl Bryggeri
+* 16.00-18.00 Rundvandring och ölprovning på Ängöl Bryggeri
+* 19.00 Middag - Källaren Kronan/Postgatan
+
+2026-04-22
+* 09.00-09.30 HPE Compute – Hans Wennberg, HPE
+* 09.30-10.00 Vivicta
+* 10.00-10.30 Fika
+* 10.30-11.20 Svensk AmatörAstronomisk förening
+* 11.30-12.30 Lunch (restaurang Slipkajen)
+* 12:30-13.00 Promenad (om vädret tillåter) /samåkning/taxi 
+* 13.00-14.30 Kalmar slott Säsongsutställning 2026 - Kalmar Slott
+
 
 Det kommer att vara möjlighet att närvara på årsmötet på distans via Internetmöte eller telefonsamtal.
 
